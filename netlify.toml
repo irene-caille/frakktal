@@ -1,2 +1,2 @@
 [template.environment]
-  PUBLIC_KEYSTATIC_CLOUD_PROJECT = "Clé du projet sur keystatic cloud"
+  PUBLIC_KEYSTATIC_CLOUD_PROJECT = "mathastak/frakktal"
