@@ -35,7 +35,7 @@ export default config({
 				kind: 'cloud',
 			},
 	cloud: {
-		project: import.meta.env.PUBLIC_KEYSTATIC_CLOUD_PROJECT,
+		 project: 'mathastak/frakktal',
 	},
 	collections: {
 		articles: collection({
