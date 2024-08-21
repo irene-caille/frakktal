@@ -1,0 +1,20 @@
+{
+  "home": {
+    "descriptions": "Site d'Iene"
+  },
+  "category": {
+    "descriptions": "Catégories"
+  },
+  "article": {
+    "descriptions": "Articles"
+  },
+  "references": {
+    "descriptions": "References"
+  },
+  "galleries": {
+    "descriptions": "Galeries"
+  },
+  "gallerie": {
+    "descriptions": "galerie"
+  }
+}
